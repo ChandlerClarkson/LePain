@@ -9,3 +9,9 @@
     background-position: center;
     background-size: cover;
 }
+
+@media (max-width: 576px) {
+    #header {
+        padding: 0 100px;
+    }
+}
